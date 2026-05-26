@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://kingandqueenbarber.ca/",
+    "slug": "index",
+    "status": 200,
+    "title": "Pedi N Nails",
+    "title_issue": "WRONG BUSINESS NAME — template artifact not customized",
+    "description": null,
+    "canonical": null,
+    "og": {},
+    "twitter": {},
+    "headings": {
+      "h1": [],
+      "h2": ["Welcome King & Queen Barber", "Book a Session Now"],
+      "h3": ["Our Services", "Let's Get in Touch"],
+      "h4": ["Men Haircut", "Coloring", "Straight"]
+    },
+    "word_count": 178,
+    "images_count": 7
+  },
+  {
+    "url": "https://kingandqueenbarber.ca/about-us",
+    "slug": "about-us",
+    "status": 200,
+    "title": "Pedi N Nails",
+    "title_issue": "WRONG BUSINESS NAME",
+    "description": null,
+    "canonical": null,
+    "og": {},
+    "twitter": {},
+    "headings": {"h1": [], "h3": ["Let's Get in Touch"]},
+    "word_count": 120,
+    "images_count": 1
+  },
+  {
+    "url": "https://kingandqueenbarber.ca/services",
+    "slug": "services",
+    "status": 200,
+    "title": "Pedi N Nails",
+    "title_issue": "WRONG BUSINESS NAME",
+    "description": null,
+    "canonical": null,
+    "og": {},
+    "twitter": {},
+    "headings": {"h1": [], "h2": ["Men Haircut", "Women Haircut"]},
+    "word_count": 220,
+    "images_count": 0
+  },
+  {
+    "url": "https://kingandqueenbarber.ca/gallery",
+    "slug": "gallery",
+    "status": 200,
+    "title": "Pedi N Nails",
+    "title_issue": "WRONG BUSINESS NAME",
+    "description": null,
+    "canonical": null,
+    "og": {},
+    "twitter": {},
+    "headings": {"h1": [], "h2": ["Our Portfolio"]},
+    "word_count": 30,
+    "images_count": 14,
+    "notes": "Page contains literal 'Lorem ipsum' placeholder copy in production"
+  },
+  {
+    "url": "https://kingandqueenbarber.ca/contact-us",
+    "slug": "contact-us",
+    "status": 200,
+    "title": "Pedi N Nails",
+    "title_issue": "WRONG BUSINESS NAME",
+    "description": null,
+    "canonical": null,
+    "og": {},
+    "twitter": {},
+    "headings": {"h1": [], "h3": ["Let's Get in Touch"]},
+    "word_count": 80,
+    "images_count": 0,
+    "notes": "Contact form has no fields — broken"
+  }
+]

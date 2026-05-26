@@ -1,0 +1,41 @@
+{
+  "rationale": "The 'King & Queen' name implies regal, premium positioning. Original site has no consistent palette to extract from (only generic stock template colors). Going with a classic, masculine-yet-elegant barbershop scheme: deep ink black anchor, warm antique gold accent (the 'regal' note), cream paper background for warmth, with neutrals for typography.",
+  "palette": [
+    {
+      "hex": "#0c0a08",
+      "rgb": [12, 10, 8],
+      "role": "ink",
+      "usage": "Primary text, hero backgrounds, dark sections"
+    },
+    {
+      "hex": "#c9a24b",
+      "rgb": [201, 162, 75],
+      "role": "brand",
+      "usage": "Primary accent — buttons, highlights, dividers, regal flourishes"
+    },
+    {
+      "hex": "#8a6a2b",
+      "rgb": [138, 106, 43],
+      "role": "brand-dark",
+      "usage": "Hover state for gold accent, deeper trim"
+    },
+    {
+      "hex": "#f5efe4",
+      "rgb": [245, 239, 228],
+      "role": "paper",
+      "usage": "Page background — warm cream"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [255, 255, 255],
+      "role": "surface",
+      "usage": "Cards, alt surfaces"
+    },
+    {
+      "hex": "#5c5147",
+      "rgb": [92, 81, 71],
+      "role": "ink-muted",
+      "usage": "Body copy, secondary text"
+    }
+  ]
+}

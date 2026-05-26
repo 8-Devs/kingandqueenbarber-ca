@@ -1,0 +1,19 @@
+URL: https://kingandqueenbarber.ca/contact-us
+Title (as scraped): Pedi N Nails    [BUG — wrong business]
+Meta description: (missing)
+
+— CONTACT —
+Phone:    905-230-6868
+Address:  50 Sky Harbour Dr unit 2, Brampton, ON L6Y 6G9
+Map:      https://www.google.com/maps/place/?q=King+%26+Queen+Barber+and+Beauty+Salon
+Booking:  https://bellebooking.com/center/5227e5909d9d27c6ebbea1f84b47901b
+Facebook: https://www.facebook.com/kingqueen.barber.1
+
+— HOURS —
+Monday      10:00 am - 8:00 pm
+Tuesday     2:00 pm - 8:00 pm
+Wed - Fri   10:00 am - 8:00 pm
+Saturday    9:00 am - 7:00 pm
+Sunday      10:00 am - 6:00 pm
+
+NOTE: The "Send Message" form on the original page is non-functional — no form fields are rendered. Looks like a broken include.

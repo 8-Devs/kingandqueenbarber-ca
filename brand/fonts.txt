@@ -1,0 +1,6 @@
+Type system for the rebuild:
+
+Display:  Playfair Display    — serif, high-contrast, "old-world barbershop" feel for headings
+Body:     Inter               — neutral, modern, highly legible sans for everything else
+
+Loaded via next/font/google in app/layout.tsx (zero-CLS, self-hosted, GDPR-friendly).

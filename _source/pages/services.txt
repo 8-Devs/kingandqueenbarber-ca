@@ -1,0 +1,27 @@
+URL: https://kingandqueenbarber.ca/services
+Title (as scraped): Pedi N Nails    [BUG — wrong business]
+Meta description: (missing)
+
+— SERVICE MENU —
+
+## Men's Haircut
+Boy under 10 (Fade)         $30
+Men Fade                    $35
+Scissors Cut                $35
+Beard Line Up               $20
+Hot Towel Shave             $40
+Cut + Beard                 $50
+Color (grey coverage)       $45    (call to book)
+Black Mask                  $15    (call to book)
+Perm                        $100   (call to book)
+Straightening               $100   (call to book)
+
+## Women's Haircut
+Cut and Style under 10      $35    (call to book)
+Cut and Style               $55    (call to book)
+Root Touch Up               $50    (call to book)
+Shampoo and Style           $35+   (call to book)
+Basic Color (1 color)       $120+  (call to book)
+Highlight                   $180+  (call to book)
+Ombre Balayage              $220+  (call to book)
+Japanese Straightening      $250+  (call to book)

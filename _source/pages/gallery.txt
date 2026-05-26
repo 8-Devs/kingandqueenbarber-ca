@@ -1,0 +1,26 @@
+URL: https://kingandqueenbarber.ca/gallery
+Title (as scraped): Pedi N Nails    [BUG — wrong business]
+Meta description: (missing)
+
+— BODY COPY —
+
+Our Portfolio
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas, lorem ut suscipit facilisis, nisi neque"   [BUG — actual Lorem Ipsum left in production]
+
+Filter tabs (broken, all link to #): "All", "Men Haircut"
+
+— PORTFOLIO IMAGES (14 total) —
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-3b6386eb8c1193518ec471fddbf8a51e.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-637891baedbc58508bc52e2d810ee1bb.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-84e2e8ae34448560999ba39106094597.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-3ff5eb6ff82a4952e9fc1b01283817a1.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-ee8dd966ce58da7585037857bb27583d.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-fb8bb96c240938ee3fa34172dda7c6ba.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-fbe3a720fc0193663160d19220b72ce2.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-8dc8cca8f34a338d4e4faa0b8f4b121b.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-38a4f72e5c10225b3b1d5f3c19abf5e2.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-f5ab8f989cb21d7fce243db08a597c7e.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-d60c9706000d0225f868c67d1d5ee5b0.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-628e040bb6fb9b86f50b3d48d55d8625.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-679f68d7db3d19f633c601b578ae6954.jpeg
+https://kingandqueenbarber.ca/storage/portfolios/beauty_spa-0296281009f86319b494a4f0c9ee7bc4.jpeg
